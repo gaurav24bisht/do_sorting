@@ -8,8 +8,8 @@ This will also provide visualtisation of the working of algorithm, this will hel
 
 #Algorithm to be covered:
 
-Quick Sort	
-Bubble Sort	
-Selection Sort	
-Insertion Sort		
-Merge Sort	
+1.Quick Sort	
+2.Bubble Sort	
+3.Selection Sort	
+4.Insertion Sort		
+5.Merge Sort	
